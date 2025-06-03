@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Moletom",
+      "descricao": "Moletom 100% algodão",
+      "preco": 49.9,
+      "imagem": "./imagens/moletom.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Tenis Preto",
+      "descricao": "Tenis de marca preto",
+      "preco": 79.9,
+      "imagem": "./imagens/tenis.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Vestido Básico",
+      "descricao": "Vestido de algodão básico",
+      "preco": 99.99,
+      "imagem": "./imagens/vestido.jpg"
+    }
+  ]
+}
